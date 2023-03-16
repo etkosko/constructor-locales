@@ -1,2 +1,2 @@
-# discord-bot-locales
-discord bot locales
+# Locales language system
+npm i i18next
