@@ -1,0 +1,144 @@
+{
+    "ping": {
+        "discord_latency": "Api Gecikmesi",
+        "bot_latency": "Bot Gecikmesi"
+    },
+    "help": {
+        "embedsdesc": "Merhaba ben İnşaatçıyım ve birçok özelliğim var. Kullanıcıların müzik dinlemesine izin verirken, şarkı sözlerini de gösterebilirim. Ayrıca müziğe filtreler ekleyerek daha iyi bir deneyim sunuyorum. Haftalık ücretsiz oyunlar hakkında bilgi verirken özel moderasyon komutları ile mesajları çevirebilir ve sunucularınızı güvende tutabilirim. Benimle tanışmak isterseniz davet linkimizi kullanarak hemen Discord sunucunuza ekleyebilirsiniz. ve evet bu metni chatgpt üzerinden yazdırttım :=)",
+        "placeholder": "Yardım Kategorisi Seç",
+        "option1_label": "Müzik Komutları",
+        "option1_desc": "Tüm Müzik Komutları",
+        "option2_label": "Yararlı Komutlar",
+        "option2_desc": "Tüm Yararlı Komutlar",
+        "option3_label": "Moderasyon Komutları",
+        "option3_desc": "Tüm Moderasyon Komutları",
+        "field1": "Komut Kategorileri",
+        "field2": "Müzik",
+        "field3": "Yararlı",
+        "field4": "Moderasyon",
+        "field5": "Müzik Komutları",
+        "field6": "Yararlı Komutları",
+        "field7": "Moderasyon Komutları"
+    },
+    "poll": {
+        "created": "Oluşturan kişi"
+    },
+    "translate": {
+        "error1": "Ne yazdıysan çeviremedim amk yada benim aptallığım belki daha iyi bir api için destek olabilirsin.",
+        "error1_header": "❌ Hata",
+        "translated": "**Çevirildi :**"
+    },
+    "translator": {
+        "error1": "Ne yazdıysan çeviremedim amk yada benim aptallığım yada sen aynı dilden aynı dile çevirmeye de çalıpşmış olabilirsin veya da daha iyi bir api için destek olabilirsin.",
+        "error1_header": "❌ Hata",
+        "translate_reply": "**Çevirildi :** ",
+        "translate_header": "<:accept:1081550149916049529> Dil Otomatik Tespit Edildi"
+    },
+    "guildinfo": {
+        "serverid": "Sunucu ID",
+        "createdate": "Oluşturma Tarihi",
+        "owner": "Sahip",
+        "channels": "Kanallar",
+        "members": "Üyeler",
+        "boosts": "Takviyeler",
+        "roles": "Roller",
+        "verify": "Doğrulama seviyesi",
+        "field1": "**{{text}}** Metin \n **{{voice}}** Ses \n **{{forum}}** Forum ",
+        "field2": "**{{online}}** Çevrimiçi \n **{{offline}}** Çevrimdış",
+        "field3": "**{{boost}}** tane \n **{{level}}** Level",
+        "field4": "**{{roles}}** Rol",
+        "field5": "**{{level}}**. Level"
+    },
+    "userinfo": {
+        "embeddesc": "**Kullanıcı Adı :** <@{{username}}> \n**Oluşturma Tarihi :** <t:{{createtime}}:F>  (<t:{{aycinsinden1}}:R>) \n**Katılma Tarihi :** <t:{{jointime}}:F>  (<t:{{aycinsinden2}}:R>)",
+        "embedfooter": "Kullanıcı bilgisi"
+    },
+    "clear": {
+        "msg1": "Ooooh miss {{allamount}} tane mesaj sildim şimdi daha temiz.",
+        "msg2": "Niyeyse silemedim belkide yetkim yoktur doğru invite linkinden davet ettiğine emin ol"
+    },
+    "noqueue": " Şuan sırada hiçbir şarkı göremyiorum!",
+    "autoplay": {
+        "msg2": "Otomatik Oynatma: "
+    },
+    "disconnect": {
+        "msg1": "Hadi bb ses'ten ben çıktım"
+    },
+    "filters": {
+        "msg2": "<:accept:1081550149916049529> Filtreyi ekledin",
+        "msg3": "Öyle bir filtre yok aq",
+        "msg4": "Kuyruğun filtre eklentisi",
+        "msg5": "Aktif Filtreler Şunlar "
+    },
+    "forward": {
+        "msg2": "**{{stringtext}}** Saniye şarkıyı ileri sardım boşa zamana gerek yok!"
+    },
+    "join": {
+        "msg1": "Eşek misin zaten başka bir ses kanalındayım oraya hizmet ediyorum ",
+        "msg2": "Gelmemi istiyorsun ama nereye gelecğimi söylemiyorsun ya bir ses kanalına gir yada bir kanal seç zeki çocuk",
+        "msg3": "Ses kanalına GİRİYORUM."
+    },
+    "loop": {
+        "msg1": "Neyi döngüye alayım hiçbir şey çalmıyor!",
+        "msg2": "Tekrar Modu `{{mode}}` olarak ayarlandı"
+    },
+    "lyrics": {
+        "msg2": "<:cancel:1082428906373656646> Şuan çalan şarkının sözlerini bulamadım bide şu yolu dene ve **/lyrics [songname]** ismi düzgün girdiğine emin ol",
+        "msg3": "Şuanda çalan şarkının sözlerini buldum al",
+        "msg4": "Şarkı sözleri için Genius.com kullanıyorum",
+        "msg5": "<:cancel:1082428906373656646> Aradığın şarkıyı bulamadım !",
+        "msg6": "Aradığın şarkının sözlerini buldum al"
+    },
+    "nowplaying": {
+        "msg2": "Şuan çalan şarkı : **`{{songname}}`**, Açan kişi : {{songuser}}"
+    },
+    "pause": {
+        "msg2": "Sadece senin şarkıyı devam ettiriyorum :)",
+        "msg3": "Sadece senin şarkıyı durduruyorum :)"
+    },
+    "play": {
+        "msg1": "<:sandclock:1082788609221984278> `Şarkı aranıyor bekle...`"
+    },
+    "previous": {
+        "msg2": "<:accept:1081550149916049529> Bir önceki şarkıyı çalıyorum : {{songname}}"
+    },
+    "queue": {
+        "msg2": "Şuan çalan Oynatma listesi : "
+    },
+    "resume": {
+        "msg2": "Sadece senin şarkıyı devam ettiriyorum  :)",
+        "msg3": "Neyi devam ettirmemi istiyorsun durdurulan bir şarkı yokki"
+    },
+    "rewind": {
+        "msg2": "{{string}} Saniye şarkıyı geriye sardım!"
+    },
+    "seek": {
+        "msg2": "**{{string}}**. Dakikadan şarkıyı başlattım!"
+    },
+    "shuffle": {
+        "msg2": "Çalma listesini alt üst ettim karıştırdım"
+    },
+    "skip": {
+        "msg2": "**<@{{atlatan}}>** Şarkı atlandı !Şuan çalan şarkı: **{{playing}}**",
+        "msg3": "Bu şarkıdan sonra bir şarkı yokki niye atlayayım"
+    },
+    "skipto": {
+        "msg2": "Listede bulunan {{songname}} sıradaki şarkı çalmaya başladı"
+    },
+    "stop": {
+        "msg2": "Çalma listesi bitirildi!"
+    },
+    "volume": {
+        "msg2": "Ses seviyesi `{{volume}}` olarak ayarlandı"
+    },
+    "search": {
+        "msg1": "Halletim seçtiğin şarkıyı sıraya ekledim",
+        "error": "Ne yazdıysan bulamadım amk"
+    },
+    "dj_role": {
+        "msg1": "<@&{{rol}}> Rolu DJ Rolu olarak seçildi"
+    },
+    "dj_channel": {
+        "msg1": "<#${{kanal}}> Kanalı DJ Kanalı olarak seçildi"
+    }
+}

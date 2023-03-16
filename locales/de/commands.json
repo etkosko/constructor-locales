@@ -1,0 +1,144 @@
+{
+    "ping": {
+        "discord_latency": "API-Verzögerung",
+        "bot_latency": "Bot-Verzögerung"
+    },
+    "help": {
+        "embedsdesc": "Hallo, ich bin ein Builder und ich habe viele Funktionen. Während ich Benutzern erlaube, Musik zu hören, kann ich auch Texte anzeigen. Ich biete auch ein besseres Erlebnis, indem ich der Musik Filter hinzufüge. Ich kann Nachrichten übersetzen und Ihre Server mit speziellen Moderationsbefehlen schützen, während ich über wöchentliche kostenlose Spiele informiere. Wenn Sie mich treffen möchten, können Sie es sofort zu Ihrem Discord-Server hinzufügen, indem Sie unseren Einladungslink verwenden. und ja ich habe diesen text per chatgpt gedruckt :=)",
+        "placeholder": "Wählen Sie die Hilfekategorie aus",
+        "option1_label": "Musikbefehle",
+        "option1_desc": "Alle Musikbefehle",
+        "option2_label": "Nützliche Befehle",
+        "option2_desc": "Alle Nützlichebefehle",
+        "option3_label": "Moderationsbefehle",
+        "option3_desc": "Alle Moderationsbefehle",
+        "field1": "Befehlskategorien",
+        "field2": "Musik",
+        "field3": "Vorteilhaft",
+        "field4": "Mäßigung",
+        "field5": "Musikbefehle",
+        "field6": "Nützliche Befehle",
+        "field7": "Moderationsbefehle"
+    },
+    "poll": {
+        "created": "Schöpfer"
+    },
+    "translate": {
+        "error1": "Ich konnte nicht übersetzen, was du geschrieben hast, aber meine Dummheit, vielleicht kannst du eine bessere API unterstützen.",
+        "error1_header": "❌ Selbst",
+        "translated": "**Übersetzt :**"
+    },
+    "translator": {
+        "error1": "Ich konnte nicht übersetzen, was Sie geschrieben haben, aber meine Dummheit oder Sie haben vielleicht gespielt, um sie aus derselben Sprache in dieselbe Sprache zu verwandeln, oder Sie können eine bessere API unterstützen.",
+        "error1_header": "❌ Selbst",
+        "translate_reply": "**Übersetzt :** ",
+        "translate_header": "<:accept:1081550149916049529> Die Sprache wurde automatisch erkannt"
+    },
+    "guildinfo": {
+        "serverid": "Server -ID",
+        "createdate": "Erstellungsdatum",
+        "owner": "Eigentümer",
+        "channels": "Kanäle",
+        "members": "Mitglieder",
+        "boosts": "Ergänzungen",
+        "roles": "Rolle",
+        "verify": "Überprüfungsstufe",
+        "field1": "**{{text}}** Text \n **{{voice}}** SSES\n **{{forum}}** forum ",
+        "field2": "**{{online}}** Online \n **{{offline}}** Çevrimdış",
+        "field3": "**{{boost}}** tane \n **{{level}}** Level",
+        "field4": "**{{roles}}** Rolle",
+        "field5": "**{{level}}**. Eben"
+    },
+    "userinfo": {
+        "embeddesc": "**Nutzername :** <@{{username}}> \n**OluErstellungsdatum* <t:{{createtime}}:F>  (<t:{{aycinsinden1}}:R>) \n**Teilnahmedatum :** <t:{{jointime}}:F>  (<t:{{aycinsinden2}}:R>)",
+        "embedfooter": "Nutzerinformation"
+    },
+    "clear": {
+        "msg1": "Ooooh Miss {{allamount}} Ich habe jetzt eine Nachricht gelöscht.",
+        "msg2": "Wie auch immer, ich konnte es nicht löschen, vielleicht habe ich keine Autorität, stellen Sie sicher, dass Sie es von der richtigen Einladungslink einladen."
+    },
+    "noqueue": "Ich kann momentan keine Songs sehen!",
+    "autoplay": {
+        "msg2": "Automatische Wiedergabe: "
+    },
+    "disconnect": {
+        "msg1": "Komm schon, ich ging aus BB SES aus"
+    },
+    "filters": {
+        "msg2": "<:accept:1081550149916049529> Sie haben den Filter hinzugefügt",
+        "msg3": "Es gibt keinen solchen Filter aq",
+        "msg4": "Filter -Plugin des Schwanzes",
+        "msg5": "Aktive Filter "
+    },
+    "forward": {
+        "msg2": "**{{stringText}}** Sekunden Ich habe das Lied vorwärts eingewickelt, keine Notwendigkeit zu verschwenden!"
+    },
+    "join": {
+        "msg1": "Bist du schlau, ich bin schon auf einem anderen Tonkanal, ich arbeite dort",
+        "msg2": "Sie möchten, dass ich komme, aber Sie sagen nicht, wohin Sie kommen sollen. Geben Sie entweder einen Soundkanal ein oder wählen Sie einen Kanal -Smart Boy",
+        "msg3": "Ich betrete den Soundkanal."
+    },
+    "loop": {
+        "msg1": "Was kann ich in den Zyklus bekommen, nichts spielt!",
+        "msg2": "Wiederholungsmodus : `{{mode}}` festgelegt wie eingestellt"
+    },
+    "lyrics": {
+        "msg2": "<:cancel:1082428906373656646> Ich konnte die Texte des Songs, der derzeit Bidet spielt, auf diese Weise und **/lyrics [songname] nicht finden.",
+        "msg3": "Ich habe die Texte des derzeit gespielten Songs gefunden.",
+        "msg4": "Ich benutze Genius.com für Texte",
+        "msg5": "<:cancel:1082428906373656646> Ich konnte das Lied, nach dem Sie gesucht haben, nicht finden !",
+        "msg6": "Ich habe die Texte des Songs gefunden, nach dem Sie suchen, nehmen Sie es"
+    },
+    "nowplaying": {
+        "msg2": "Das Lied spielt derzeit : **`{{songname}}`**, Die Person, die das Lied geöffnet hat : {{songuser}}"
+    },
+    "pause": {
+        "msg2": "Ich setze nur dein Lied fort :)",
+        "msg3": "Ich stoppe nur dein Lied :)"
+    },
+    "play": {
+        "msg1": "<:sandclock:1082788609221984278> `Das Lied ist gesucht, warte...`"
+    },
+    "previous": {
+        "msg2": "<:accept:1081550149916049529> Ich spiele das vorherige Lied: {{songname}}"
+    },
+    "queue": {
+        "msg2": "Aktuelle Spielliste : "
+    },
+    "resume": {
+        "msg2": "Ich setze nur dein Lied fort :)",
+        "msg3": "Was soll ich weitermachen?"
+    },
+    "rewind": {
+        "msg2": "{{string}} Sekunden Ich habe das Lied zurückgewickelt!"
+    },
+    "seek": {
+        "msg2": "** {{string}} **.Ich habe das Lied in der Minute begonnen!"
+    },
+    "shuffle": {
+        "msg2": "Ich habe die Wiedergabeliste auf den Kopf gestellt und gemischt"
+    },
+    "skip": {
+        "msg2": "**<@{{atlatan}}>** Das Lied sprang!: **{{playing}}**",
+        "msg3": "Nach diesem Lied gibt es kein Lied, warum sollte ich springen?"
+    },
+    "skipto": {
+        "msg2": "Gelistet {{songname}} Das nächste Lied begann zu spielen"
+    },
+    "stop": {
+        "msg2": "Die Wiedergabeliste wurde fertig!"
+    },
+    "volume": {
+        "msg2": "Lautstärke `{{volume}}` festgelegt wie eingestellt"
+    },
+    "search": {
+        "msg1": "Ich habe das Lied hinzugefügt, das du gewählt hast",
+        "error": "Ich konnte nicht finden, was du geschrieben hast amk"
+    },
+    "dj_role": {
+        "msg1": "<@&{{rol}}> Rolu wurde als DJ Rolle ausgewählt"
+    },
+    "dj_channel": {
+        "msg1": "<#${{kanal}}> Der Kanal wurde als DJ Kanal ausgewählt"
+    }
+}
