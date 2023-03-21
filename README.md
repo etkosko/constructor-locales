@@ -1,2 +1,1 @@
-# Locales language system
-npm i i18next
+Constructor Bot's Locale files
