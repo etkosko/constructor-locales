@@ -1,1 +1,1 @@
-Constructor Bot's Locale files 21.05.2023
+Constructor Bot's Locales files 21.05.2023
