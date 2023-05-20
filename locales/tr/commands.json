@@ -139,6 +139,6 @@
         "msg1": "<@&{{rol}}> Rolu DJ Rolu olarak seçildi"
     },
     "dj_channel": {
-        "msg1": "<#${{kanal}}> Kanalı DJ Kanalı olarak seçildi"
+        "msg1": "<#${{kanal}}> Kanalı DJ Kanalı olarak başarıyla seçildi"
     }
 }
