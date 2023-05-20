@@ -1,0 +1,253 @@
+{
+    "ping": {
+        "discord_latency": "Api Gecikmesi",
+        "bot_latency": "Bot Gecikmesi"
+    },
+    "help": {
+        "embedsdesc": "Merhaba ben Cosntructor'um ve birçok özelliğim var. Kullanıcıların müzik dinlemesine izin verirken, şarkı sözlerini de gösterebilirim. Ayrıca müziğe filtreler ekleyerek daha iyi bir deneyim sunuyorum. Haftalık ücretsiz oyunlar hakkında bilgi verirken özel moderasyon komutları ile mesajları çevirebilir ve sunucularınızı güvende tutabilirim. Benimle tanışmak isterseniz davet linkimizi kullanarak hemen Discord sunucunuza ekleyebilirsiniz. ve evet bu metni chatgpt üzerinden yazdırttım :=)",
+        "placeholder": "Yardım Kategorisi Seç",
+        "option1_label": "Müzik Komutları",
+        "option1_desc": "Tüm Müzik Komutları",
+        "option2_label": "Yararlı Komutlar",
+        "option2_desc": "Tüm Yararlı Komutlar",
+        "option3_label": "Moderasyon Komutları",
+        "option3_desc": "Tüm Moderasyon Komutları",
+        "field1": "Komut Kategorileri",
+        "field2": "Müzik",
+        "field3": "Yararlı",
+        "field4": "Moderasyon",
+        "field5": "Müzik Komutları",
+        "field6": "Yararlı Komutları",
+        "field7": "Moderasyon Komutları"
+    },
+    "poll": {
+        "created": "Oluşturan kişi"
+    },
+    "translate": {
+        "error1": "Ne yazdıysan çeviremedim amk yada benim aptallığım belki daha iyi bir api için destek olabilirsin.",
+        "error1_header": "❌ Hata",
+        "translated": "**`{{translatestring2}}` Kelimesi şuna çevirildi :**"
+    },
+    "translator": {
+        "error1": "Ne yazdıysan çeviremedim amk yada benim aptallığım yada sen aynı dilden aynı dile çevirmeye de çalıpşmış olabilirsin veya da daha iyi bir api için destek olabilirsin.",
+        "error1_header": "❌ Hata",
+        "translate_reply": "**Çevirildi :** ",
+        "translate_header": "<:accept:1081550149916049529> Dil Otomatik Tespit Edildi"
+    },
+    "guildinfo": {
+        "serverid": "Sunucu ID",
+        "createdate": "Oluşturma Tarihi",
+        "owner": "Sahip",
+        "channels": "Kanallar",
+        "members": "Üyeler",
+        "boosts": "Takviyeler",
+        "roles": "Roller",
+        "verify": "Doğrulama seviyesi",
+        "field1": "**{{text}}** Metin \n **{{voice}}** Ses \n **{{forum}}** Forum ",
+        "field2": "**{{online}}** Çevrimiçi \n **{{offline}}** Çevrimdış",
+        "field3": "**{{boost}}** tane \n **{{level}}** Level",
+        "field4": "**{{roles}}** Rol",
+        "field5": "**{{level}}**. Level"
+    },
+    "userinfo": {
+        "embeddesc": "**Kullanıcı Adı :** <@{{username}}> \n**Oluşturma Tarihi :** <t:{{createtime}}:F>  (<t:{{aycinsinden1}}:R>) \n**Katılma Tarihi :** <t:{{jointime}}:F>  (<t:{{aycinsinden2}}:R>)",
+        "embedfooter": "Kullanıcı bilgisi"
+    },
+    "clear": {
+        "msg1": "Ooooh miss {{allamount}} tane mesaj sildim şimdi daha temiz.",
+        "msg2": "Niyeyse silemedim belkide yetkim yoktur doğru invite linkinden davet ettiğine emin ol"
+    },
+    "noqueue": "Şuan sırada hiçbir şarkı göremyiorum önce şarkı aç!",
+    "autoplay": {
+        "msg2": "Otomatik Oynatma: "
+    },
+    "disconnect": {
+        "msg1": "Hadi bb ses'ten ben çıktım"
+    },
+    "filters": {
+        "msg2": "<:accept:1081550149916049529> Filtreyi ekledin",
+        "msg3": "Öyle bir filtre yok aq",
+        "msg4": "Kuyruğa `{{filtre}}` filtresini ekledi",
+        "msg5": "Aktif Filtreler Şunlar "
+    },
+    "forward": {
+        "msg2": "**{{stringtext}}** Saniye şarkıyı ileri sardım boşa zamana gerek yok!"
+    },
+    "join": {
+        "msg1": "Eşek misin zaten başka bir ses kanalındayım oraya hizmet ediyorum ",
+        "msg2": "Gelmemi istiyorsun ama nereye gelecğimi söylemiyorsun ya bir ses kanalına gir yada bir kanal seç zeki çocuk",
+        "msg3": "Ses kanalına GİRİYORUM."
+    },
+    "loop": {
+        "msg1": "Neyi döngüye alayım hiçbir şey çalmıyor!",
+        "msg2": "Tekrar Modu `{{mode}}` olarak ayarlandı"
+    },
+    "lyrics": {
+        "msg2": "<:cancel:1082428906373656646> Şuan çalan şarkının sözlerini bulamadım bide şu yolu dene ve **/lyrics [songname]** ismi düzgün girdiğine emin ol",
+        "msg3": "Şuanda çalan şarkının sözlerini arıyorum",
+        "msg4": "Şarkı sözleri için Genius.com kullanıyorum",
+        "msg5": "<:cancel:1082428906373656646> Aradığın şarkıyı bulamadım !",
+        "msg6": "Aradığın şarkının sözlerini arıyorum"
+    },
+    "nowplaying": {
+        "msg2": "Şuan çalan şarkı : **`{{songname}}`**, Açan kişi : <@{{songuser}}>"
+    },
+    "pause": {
+        "msg2": "Sadece senin şarkıyı devam ettiriyorum :)",
+        "msg3": "Sadece senin şarkıyı durduruyorum :)"
+    },
+    "play": {
+        "msg1": "<:sandclock:1082788609221984278> `Şarkı aranıyor bekle...`"
+    },
+    "previous": {
+        "msg2": "<:accept:1081550149916049529> Bir önceki şarkıyı çalıyorum : {{songname}}"
+    },
+    "queue": {
+        "msg2": "Şuan çalan Oynatma listesi : "
+    },
+    "resume": {
+        "msg2": "Sadece senin şarkıyı devam ettiriyorum  :)",
+        "msg3": "Neyi devam ettirmemi istiyorsun durdurulan bir şarkı yokki"
+    },
+    "rewind": {
+        "msg2": "{{string}} Saniye şarkıyı geriye sardım!",
+        "msg3": "Şarkı başlayalı daha o kadar olmadı biraz bekle"
+
+    },
+    "seek": {
+        "msg2": "**{{string}}**. Dakikadan şarkıyı başlattım!"
+    },
+    "shuffle": {
+        "msg2": "Çalma listesini alt üst ettim karıştırdım"
+    },
+    "skip": {
+        "msg2": "**<@{{atlatan}}>** Şarkı atlandı !Şuan çalan şarkı: **{{playing}}**",
+        "msg3": "Bu şarkıdan sonra bir şarkı yokki niye atlayayım"
+    },
+    "skipto": {
+        "msg2": "Listede bulunan {{songname}} sıradaki şarkı çalmaya başladı",
+        "msg3": "O sırada öyle bir şarkı yok dost"
+    },
+    "stop": {
+        "msg2": "Çalma listesi bitirildi!"
+    },
+    "volume": {
+        "msg2": "Ses seviyesi `{{volume}}` olarak ayarlandı"
+    },
+    "search": {
+        "msg1": "Halletim seçtiğin şarkıyı sıraya ekledim",
+        "error": "Ne yazdıysan bulamadım amk"
+    },
+    "dj_role": {
+        "msg1": "<@&{{rol}}> Rolu DJ Rolu olarak seçildi"
+    },
+    "dj_channel": {
+        "msg1": "<#{{kanal}}> Kanalı DJ Kanalı olarak seçildi"
+    },
+    "add_related": {
+        "msg1": "İlgili şarkıyı kuyruğa ekledim"
+    },
+    "vote": {
+        "msg1" : "Botumuzu oyla", 
+        "msg2" : "Hey Türk dostum umarım botumuz hakkında güzel şeyler yazarsın etme eşekle muhabbet küstürürsün silme cam kırığı ile götünü kestirirsin."
+    },
+    "anime": {
+        "msg1" : "❌ Anime bulunamadı, ismi doğru yazdığından emin ol! Eğer eminsen bu sorun api'den kaynaklı olabilir.",
+        "embedmsg1" : "Türler",
+        "embedmsg2" : "Yayım tarihi",
+        "embedmsg3" : "Toplam bölümler",
+        "embedmsg4" : "Tipi",
+        "embedmsg5" : "Durum",
+        "embedmsg6" : "Süre",
+        "embedmsg7" : "Ortalama puanı",
+        "embedmsg8" : "Popülerlik",
+        "embedmsg9" : "Sıralaması",
+        "maluser1" : "Cinsiyet",
+        "maluser2" : "Doğum tarihi",
+        "maluser3" : "Lokasyon",
+        "maluser4" : "Anima istatistikleri",
+        "maluser5" : "Tamamlandı",
+        "maluser6" : "İzlenen bölüm",
+        "maluser7" : "İzlediği gün sayısı",
+        "maluser8" : "Toplam girdiler",
+        "maluser9" : "Ortlama puan",
+        "maluser10" : "İzliyor",
+        "maluser11" : "Yeniden izlediği",
+        "maluser12" : "İzlemeyi düşündüğü",
+        "maluser13" : "Beklemede",
+        "maluser14" : "Düştü",
+        "maluser15" : "Manga istatistikleri",
+        "maluser16" : "Okduğu gün sayısı",
+        "maluser17" : "Ortalama puan",
+        "maluser18" : "Okuyor",
+        "maluser19" : "Okudu",
+        "maluser20" : "Toplam girdiler",
+        "maluser21" : "Beklemede",
+        "maluser22" : "Düştü",
+        "maluser23" : "Okumayı düşündüğü",
+        "maluser24" : "Yeniden okunan",
+        "maluser25" : "Okunan bölüm",
+        "maluser26" : "Okunan ciltler",
+        "maluser27" : "Son aktiflik",
+        "maluser28" : "Kayıt tarihi"
+    },
+    "weather": {
+        "weather1" : "Bulutlu",
+        "weather2" : "Parçalı bulutlu sabah",
+        "weather3" : "Parçalı bulutlu gece",
+        "weather4" : "Temiz",
+        "weather5" : "Temiz sabah",
+        "weather6" : "Temiz gece",
+        "weather7" : "Güneşli",
+        "weather8" : "Karlı",
+        "weather9" : "Karı sabah",
+        "weather10" : "Karlı gece",
+        "weather11" : "Şimşekli",
+        "weather12" : "Şimşekli sabah",
+        "weather13" : "Şimşekli gece",
+        "weather14" : "Sisli",
+        "weather15" : "Rüzgarlı",
+        "tr1" : "Derece",
+        "tr2" : "Hava şartı",
+        "tr3" : "Nem oranı",
+        "tr4" : "Rüzgar Hızı",
+        "tr5" : "Rüzgar derecesi",
+        "tr6" : "Bulut örtüsü",
+        "tr7" : "Görünürlük",
+        "tr8" : "Yağış oranı",
+        "tr9" : "UV Işını",
+        "tr10" : "Güneş radyasyonu",
+        "tr11" : "Şiddetli Risk",
+        "tr12" : "Kar derinliği",
+        "tr13" : "Deniz Seviyesi Basıncı",
+        "tr14" : "Maksimum derece",
+        "tr15" : "Minimum derece",
+        "tr16" : "Kar yok",
+        "tr17" : "Veri bulunamadı"
+    },
+    "setchannel": {
+        "msg1" : "Bu kanal zaten listede bulunuyor", 
+        "msg2" : "Listede Olan Kanallar",
+        "msg3" : "Kanal başarıyla listeye eklendi",
+        "msg4" : "Eklendi",
+        "msg5" : "Listede Olan Kanallar",
+        "error1" : "Bu özellik zaten kapalı dostum",
+        "error2" : "Belirli Kanallarda komut kullanma sistemi devre dışı bırakıldı",
+        "error3" : "Üzgünüm bu botun tüm komutlarınu kullanmak için şu kanallar aktiftir"
+    },
+    "nodj": {
+        "msg1" : "Sadece DJ Kanallarında müzik komutu kullanma sistemini devre dışı bıraktın", 
+        "msg2" : "Sadece DJ Rolünü devre dışı bıraktınız",
+        "error1" : "Bu özellik zaten devre dışında"
+    },
+    "twitch": {
+        "msg1" : "Bu sistem zaten devre dışı", 
+        "msg2" : "Gayet başarılı artık istediğin kullanıcı yayın açtığında sana bildirim göndermeyeceğim",
+        "checking" : "Bildirim mesajı bizim listelediğimiz kara liste kelimelerin içinde bulunuyor"
+    },
+    "avatar": {
+        "msg1" : "'nun bu sunucudaki profil resmi",
+        "msg2" : "'nun kendi profil resmi"
+    }
+
+}

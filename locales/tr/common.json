@@ -1,0 +1,20 @@
+{
+    "interactionCreate": {
+        "error1": "Bu komutu kullanabilmek için ses kanalında olmalısın!",
+        "error2": "Bu komutu kullanabilmek için botla aynı ses kanalında olmalısın!",
+        "error3": "Bu komutu kullanabilmek için yetkini göremiyorum!",
+        "error4": "Şuan sırada hiçbir şarkı göremyiorum önce şarkı aç!",
+        "req": "Sana gereken yetkiler",
+        "req1": "{{gereklipermission}}",
+        "footer": "Reddedilen Etkinlik",
+        "cooldown": "Az sakin ol **{{cooldown}}s** sonra tekrar yazabileceksin",
+        "terminalerror": "Bu komutu kullanırken bir hata meydana geldi",
+        "roleerr": "Ooh üzgünüm bu komutu kullanabilmek için<@&{{rol}}> rolüne sahip olmalısın benim suçum değil sunucu sahibi ayarlamış",
+        "comerr": "Heey bu kanalda bu komutu kullanamazsın bu komutlar sadece <#{{kanal}}> kanalında kullanılabilir"
+
+    },
+
+    "registercommands" : {
+        "permerror" : "Selam beni davet ettiğin için teşekkür ederim! Sana botun sahibinin mesajını getirdim \nBotu artık nereden davet ettiysen **eğik çizgi** komutlarına erişemiyor \n Yapman gereken tek şey botu kickleyip bu [linkten](https://discord.com/api/oauth2/authorize?client_id=520886596715806721&permissions=8&scope=bot%20applications.commands) botu tekrar davet etmen umarım anlamışsındır"
+    }
+}
