@@ -1,0 +1,254 @@
+{
+    "ping": {
+        "discord_latency": "Api Latency",
+        "bot_latency": "My Latency"
+    },
+    "help": {
+        "embedsdesc": "Hello! My name is Constructor, I'm a Discord bot with music playing, entertainment, candid answers and moderation features. I'm here to spice up your Discord server! I can play your favorite music for you, host fun games and events, always respond friendly and use my moderation features to keep your Discord server organized. If you want to meet me, you can add it to your Discord server right away using our invite link!",
+        "placeholder": "Select Help Category",
+        "option1_label": "Musics Commands",
+        "option1_desc": "All music commands",
+        "option2_label": "Utils Commands",
+        "option2_desc": "All utils commands",
+        "option3_label": "Admins Commands",
+        "option3_desc": "All admin commands",
+        "field1": "Commands Categories",
+        "field2": "Music",
+        "field3": "Utils",
+        "field4": "Admin",
+        "field5": "Music Commands",
+        "field6": "Utils Commands",
+        "field7": "Admin Commands"
+    },
+    "poll": {
+        "created": "Created by"
+    },
+    "translate": {
+        "error1": "I Cant translated maybe its my bad or maybe you entered nonsense word **I need your donations for the better API**",
+        "error1_header": "❌ Error",
+        "translated": "**`{{translatestring2}}` Words translated to :**"
+    },
+    "translator": {
+        "error1": "I tried to translate the text for you, but I couldn't. **Maybe it's my problem** or you tried to translate it into a **language that doesn't exist** at all or the **same language**",
+        "error1_header": "❌ Error",
+        "translate_reply": "**Translated to** ",
+        "translate_header": "<:accept:1081550149916049529> Auto Detected and Translated"
+    },
+    "guildinfo": {
+        "serverid": "Server ID",
+        "createdate": "Create Date",
+        "owner": "Owner",
+        "channels": "Channels",
+        "members": "Members",
+        "boosts": "Boosts",
+        "roles": "Roles",
+        "verify": "Verification level",
+        "field1": "**{{text}}** Text \n **{{voice}}** Voice \n **{{forum}}** Forum ",
+        "field2": "**{{online}}** Online \n **{{offline}}** Offline",
+        "field3": "**{{boost}}** Pieces \n **{{level}}** Level",
+        "field4": "**{{roles}}** Roles",
+        "field5": "**{{level}}**. Level"
+    },
+    "userinfo": {
+        "embeddesc": "**Username :** <@{{username}}> \n**Create Time :** <t:{{createtime}}:F>  (<t:{{aycinsinden1}}:R>) \n**Join Time :** <t:{{jointime}}:F>  (<t:{{aycinsinden2}}:R>)",
+        "embedfooter": "User Info activity"
+    },
+    "clear": {
+        "msg1": "Well i deleted {{allamount}} messages, its now clear",
+        "msg2": "Something went wrong **maybe** i dont have permissions for this invite me true link"
+    },
+    "noqueue": "There is nothing in the queue right now!",
+    "autoplay": {
+        "msg2": "AutoPlay: "
+    },
+    "disconnect": {
+        "msg1": "I'm leaving the voice channel"
+    },
+    "filters": {
+        "msg2": "<:accept:1081550149916049529> You added a filter",
+        "msg3": "Not a valid filter",
+        "msg4": "Added filter `{{filtre}}` to the queue",
+        "msg5": "Active Filters "
+    },
+    "forward": {
+        "msg2": "Forwarded the song for **{{stringtext}}** seconds!"
+    },
+    "join": {
+        "msg1": "I Already in voice channel",
+        "msg2": "You must be in a voice channel or enter a voice channel id!",
+        "msg3": "I'm connecting"
+    },
+    "loop": {
+        "msg1": "There is nothing playing!",
+        "msg2": "Set repeat mode to `{{mode}}`"
+    },
+    "lyrics": {
+        "msg2": "<:cancel:1082428906373656646> The lyrics Data not found or something went wrong! **CAN'T FIND,TRY /lyrics [songname]**",
+        "msg3": "I found the lyrics of the song that is playing right now",
+        "msg4": "Thanks to Genius.com for the lyrics",
+        "msg5": "<:cancel:1082428906373656646> The lyrics Data not found or something went wrong!",
+        "msg6": "I searched for the name of the song with the name you entered"
+    },
+    "nowplaying": {
+        "msg2": "Currently playing **`{{songname}}`**, by <@{{songuser}}>"
+    },
+    "pause": {
+        "msg2": "Resumed the song for you :)",
+        "msg3": "Paused the song for you :)"
+    },
+    "play": {
+        "msg1": "<:sandclock:1082788609221984278> `Searching song...`"
+    },
+    "previous": {
+        "msg2": "<:accept:1081550149916049529> Playing previous song: {{songname}}"
+    },
+    "queue": {
+        "msg2": "Current Queue : "
+    },
+    "resume": {
+        "msg2": "Resumed the song for you :)",
+        "msg3": "The queue is not paused!"
+    },
+    "rewind": {
+        "msg2": "Rewinded the song for {{string}}!",
+        "msg3": "It hasn't been that long since the song started"
+    },
+    "seek": {
+        "msg2": "Seeked to second of **{{string}}**!"
+    },
+    "shuffle": {
+        "msg2": "Shuffled songs in the queue"
+    },
+    "skip": {
+        "msg2": "**<@{{atlatan}}>** Skipped the song! Now playing: **{{playing}}**",
+        "msg3": "Cannot find the other song"
+    },
+    "skipto": {
+        "msg2": "Skipped to: {{songname}}",
+        "msg3": "Cannot find position"
+    },
+    "stop": {
+        "msg2": "Queue Stopped!"
+    },
+    "volume": {
+        "msg2": "Volume setted to `{{volume}}`"
+    },
+    "search": {
+        "msg1": "Fine im added the song on queue",
+        "error": "Couldn't find the song you were search"
+    },
+    "dj_role": {
+        "msg1": "<@&{{rol}}> Role setted to DJ Role"
+    },
+    "dj_channel": {
+        "msg1": "<#{{kanal}}> channel setted to DJ channel"
+    },
+
+    "add_related": {
+        "msg1": "I added the related song"
+    },
+    "vote": {
+        "msg1" : "Vote the bot", 
+        "msg2" : "Thank you veeeery much, we hope you write nice things about our bot"
+    },
+    "anime": {
+        "msg1" : "❌Anime not found, make sure you spelled the name correctly! If you are sure, this problem may be caused by the api.",
+        "embedmsg1" : "Genres",
+        "embedmsg2" : "Aired",
+        "embedmsg3" : "Total episode",
+        "embedmsg4" : "Type",
+        "embedmsg5" : "Status",
+        "embedmsg6" : "Duration",
+        "embedmsg7" : "Avarage rating",
+        "embedmsg8" : "Popularity",
+        "embedmsg9" : "Ranked",
+        "maluser1" : "Gender",
+        "maluser2" : "Birthday",
+        "maluser3" : "Location",
+        "maluser4" : "Anime stats",
+        "maluser5" : "Completed",
+        "maluser6" : "Episodes Watched",
+        "maluser7" : "Days watched",
+        "maluser8" : "Total Entries",
+        "maluser9" : "Mean Score",
+        "maluser10" : "Watching",
+        "maluser11" : "Rewatched",
+        "maluser12" : "Plan to watch",
+        "maluser13" : "On Hold",
+        "maluser14" : "Dropped",
+        "maluser15" : "Manga Stats",
+        "maluser16" : "Days read",
+        "maluser17" : "Mean Score",
+        "maluser18" : "Reading",
+        "maluser19" : "Completed",
+        "maluser20" : "Total Entries",
+        "maluser21" : "On Hold",
+        "maluser22" : "Dropped",
+        "maluser23" : "Plan to read",
+        "maluser24" : "Reread",
+        "maluser25" : "Chapters read",
+        "maluser26" : "Volumes read",
+        "maluser27" : "Last Online",
+        "maluser28" : "User Joined"
+    },
+    "weather": {
+        "weather1" : "Cloudy",
+        "weather2" : "Partially cloudy day",
+        "weather3" : "Partially cloudy night",
+        "weather4" : "Clear",
+        "weather5" : "Clear day",
+        "weather6" : "Clear night",
+        "weather7" : "Sunny",
+        "weather8" : "Snowy",
+        "weather9" : "Snow Showers day",
+        "weather10" : "Snow Showers night",
+        "weather11" : "Thunder rain",
+        "weather12" : "Thunder rain day",
+        "weather13" : "Thunder rain night",
+        "weather14" : "Foggy",
+        "weather15" : "Windy",
+        "tr1" : "Temperature",
+        "tr2" : "Conditions",
+        "tr3" : "Humidity",
+        "tr4" : "Wind Speed",
+        "tr5" : "Wind Chill",
+        "tr6" : "Cloud Cover",
+        "tr7" : "Visibility",
+        "tr8" : "Chance Precipitation",
+        "tr9" : "UV Index",
+        "tr10" : "Solar Radiation",
+        "tr11" : "Severe Risk",
+        "tr12" : "Snow Depth",
+        "tr13" : "Sea Level Pressure",
+        "tr14" : "Maximum Temperature",
+        "tr15" : "Minimum Temperature",
+        "tr16" : "No Snow",
+        "tr17" : "Data not found"
+    },
+    "setchannel": {
+        "msg1" : "This channel is already on the list", 
+        "msg2" : "Channels Listed",
+        "msg3" : "Channel successfully added to the list",
+        "msg4" : "Added",
+        "msg5" : "Channels in the List",
+        "error1" : "This feature is already disabled",
+        "error2" : "Disabled scripting system on certain Channels",
+        "error3" : "Sorry, Only below channels are active to use all commands of this bot"
+    },
+    "nodj": {
+        "msg1" : "Succesfully disabled the system of using music commands only in DJ Channels", 
+        "msg2" : "Succesfully disabled DJ Role",
+        "error1" : "This feature is already disabled"
+    },
+    "twitch": {
+        "msg1" : "This system is already disabled", 
+        "msg2" : "Very successful, now I will not send you a notification when the user you want broadcasts",
+        "checking" : "Notification message cannot include bad word"
+    },
+    "avatar": {
+        "msg1" : "'s profile picture on this server",
+        "msg2" : "'s original profile picture"
+    }
+
+
+}
